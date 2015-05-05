@@ -1,8 +1,6 @@
 package food.noFactory;
 
-public class Dinner implements Food {
-
-	@Override
+public class Dinner {
 	public String getValue() {
 		return "beefsteak";
 	}
